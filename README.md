@@ -6,7 +6,7 @@ It provides a clean, interactive UI and uses trained ML models to generate accur
 Your app is deployed on Streamlit Cloud:
 
 👉 (Add your Streamlit URL here once deployed)  
-https://premium-predictor.streamlit.app
+https://healthcare-premium-predictor.streamlit.app/
 
 
 📌 Project Overview
