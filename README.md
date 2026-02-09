@@ -6,7 +6,8 @@ It provides a clean, interactive UI and uses trained ML models to generate accur
 Your app is deployed on Streamlit Cloud:
 
 👉 (Add your Streamlit URL here once deployed)  
-https://ml-project-premium-prediction.streamlit.app
+https://premium-predictor.streamlit.app
+
 
 📌 Project Overview
 This application predicts health insurance costs using:
