@@ -1,6 +1,4 @@
 import streamlit as st
-from statsmodels.tsa.statespace.mlemodel import PredictionResults
-
 from prediction_helper import predict
 
 # Define the page layout
@@ -76,3 +74,4 @@ input_dict = {
 if st.button('Predict'):
     prediction = predict(input_dict)
     st.success(f"Predicted Premium: {prediction}")
+
